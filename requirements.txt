@@ -3,4 +3,8 @@ numpy
 pymongo
 python-dotenv
 PyYAML
+imblearn
+xgboost
+dill 
+scikit-learn
 -e .
