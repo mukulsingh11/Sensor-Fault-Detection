@@ -7,7 +7,7 @@ class DataIngestionArtifact:
     test_file_path:str
 
 @dataclass
-class DataValidationArtifcat:
+class DataValidationArtifact:
     report_file_path:str
 
 @dataclass 
